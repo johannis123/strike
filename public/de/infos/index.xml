@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Infos on Strike WEF</title>
-    <link>//localhost:1313/de/infos/</link>
-    <description>Recent content in Infos on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Tue, 04 Jul 2023 12:01:33 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/de/infos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Route &amp; Zeiten</title>
-      <link>//localhost:1313/de/infos/route/</link>
-      <pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
-      <guid>//localhost:1313/de/infos/route/</guid>
-      <description>Die Route und verschiedene Zeiten 2026!</description>
-    </item>
-    <item>
-      <title>Aktionskonsens</title>
-      <link>//localhost:1313/de/infos/konsens/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/infos/konsens/</guid>
-      <description>Hier gehts zum Aktionskonsens welcher während der Wanderung für alle gilt.</description>
-    </item>
-    <item>
-      <title>Antinationales Statement</title>
-      <link>//localhost:1313/de/infos/anti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/infos/anti/</guid>
-      <description>Statement gegen nationalistisches Gedankengut.</description>
-    </item>
-    <item>
-      <title>Antirep</title>
-      <link>//localhost:1313/de/infos/antirep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/infos/antirep/</guid>
-      <description>Hier gibt es alle wichtigen rechtlichen Hinweise, welche während der Wanderung relevant sein könnten.</description>
-    </item>
-    <item>
-      <title>Awareness Konzept</title>
-      <link>//localhost:1313/de/infos/awareness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/infos/awareness/</guid>
-      <description>Hier findest du unser Awarenesskonzept und alles was dazugehört.</description>
-    </item>
-    <item>
-      <title>Packliste</title>
-      <link>//localhost:1313/de/infos/packliste/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/infos/packliste/</guid>
-      <description>Weisst du nicht was alles mitnehmen? Dann findest du hier eine Packliste!</description>
-    </item>
-    <item>
-      <title>Wieso wandern wir gegen das WEF?</title>
-      <link>//localhost:1313/de/infos/warum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/de/infos/warum/</guid>
-      <description>Lies hier warum wir gegen das WEF wandern</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Infos on Strike WEF</title>
+		<link>//localhost:1313/de/infos/</link>
+		<description>Recent content in Infos on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>de-DE</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Jul 2023 12:01:33 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/de/infos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Route &amp; Zeiten</title>
+				<link>//localhost:1313/de/infos/route/</link>
+				<pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
+				<guid>//localhost:1313/de/infos/route/</guid>
+				<description>Die Route und verschiedene Zeiten 2026!</description>
+			</item>
+			<item>
+				<title>Aktionskonsens</title>
+				<link>//localhost:1313/de/infos/konsens/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/infos/konsens/</guid>
+				<description>Hier gehts zum Aktionskonsens welcher während der Wanderung für alle gilt.</description>
+			</item>
+			<item>
+				<title>Antinationales Statement</title>
+				<link>//localhost:1313/de/infos/anti/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/infos/anti/</guid>
+				<description>Statement gegen nationalistisches Gedankengut.</description>
+			</item>
+			<item>
+				<title>Antirep</title>
+				<link>//localhost:1313/de/infos/antirep/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/infos/antirep/</guid>
+				<description>Hier gibt es alle wichtigen rechtlichen Hinweise, welche während der Wanderung relevant sein könnten.</description>
+			</item>
+			<item>
+				<title>Awareness Konzept</title>
+				<link>//localhost:1313/de/infos/awareness/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/infos/awareness/</guid>
+				<description>Hier findest du unser Awarenesskonzept und alles was dazugehört.</description>
+			</item>
+			<item>
+				<title>Packliste</title>
+				<link>//localhost:1313/de/infos/packliste/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/infos/packliste/</guid>
+				<description>Weisst du nicht was alles mitnehmen? Dann findest du hier eine Packliste!</description>
+			</item>
+			<item>
+				<title>Wieso wandern wir gegen das WEF?</title>
+				<link>//localhost:1313/de/infos/warum/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/infos/warum/</guid>
+				<description>Lies hier warum wir gegen das WEF wandern</description>
+			</item>
+	</channel>
 </rss>

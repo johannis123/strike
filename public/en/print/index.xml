@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Prints on Strike WEF</title>
-    <link>//localhost:1313/en/print/</link>
-    <description>Recent content in Prints on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 23 Nov 2023 15:00:51 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/en/print/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Posters &amp; Flyers</title>
-      <link>//localhost:1313/en/print/posters/</link>
-      <pubDate>Thu, 23 Nov 2023 15:00:51 +0100</pubDate>
-      <guid>//localhost:1313/en/print/posters/</guid>
-      <description>&lt;h3 id=&#34;here-are-posters-and-flyers-for-your-own-use&#34;&gt;Here are posters and flyers for your own use&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t have a printer? We have pre-printed! Write us an email and we&amp;rsquo;ll see how you can get a poster :)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;h3 id=&#34;poster-german---download&#34;&gt;Poster German - &lt;a href=&#34;//localhost:1313/files/Poster2026.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster2026.png&#34; alt=&#34;Poster 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;h3 id=&#34;poster-englisch---download&#34;&gt;Poster Englisch - &lt;a href=&#34;//localhost:1313/files/strike_wef_plakat.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;poster-2024&#34;&gt;&lt;img src=&#34;//localhost:1313/img/strike_wef_plakat.jpg&#34; alt=&#34;Poster 2024&#34;&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;h3 id=&#34;german---download&#34;&gt;German - &lt;a href=&#34;//localhost:1313/files/Poster_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_DE.jpg&#34; alt=&#34;Poster German&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;english---download&#34;&gt;English - &lt;a href=&#34;//localhost:1313/files/Poster_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_EN.jpg&#34; alt=&#34;Poster English&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;french---download&#34;&gt;French - &lt;a href=&#34;//localhost:1313/files/Poster_FR.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_FR.jpg&#34; alt=&#34;Poster French&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;flyer&#34;&gt;Flyer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;german---download-1&#34;&gt;German - &lt;a href=&#34;//localhost:1313/files/Flyer_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_DE.jpg&#34; alt=&#34;Flyer German&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;english---download-1&#34;&gt;English - &lt;a href=&#34;//localhost:1313/files/Flyer_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_EN.jpg&#34; alt=&#34;Flyer English&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Prints on Strike WEF</title>
+		<link>//localhost:1313/en/print/</link>
+		<description>Recent content in Prints on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Nov 2023 15:00:51 +0100</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/en/print/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Posters &amp; Flyers</title>
+				<link>//localhost:1313/en/print/posters/</link>
+				<pubDate>Thu, 23 Nov 2023 15:00:51 +0100</pubDate>
+				<guid>//localhost:1313/en/print/posters/</guid>
+				<description>&lt;h3 id=&#34;here-are-posters-and-flyers-for-your-own-use&#34;&gt;Here are posters and flyers for your own use&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t have a printer? We have pre-printed! Write us an email and we&amp;rsquo;ll see how you can get a poster :)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;h3 id=&#34;poster-german---download&#34;&gt;Poster German - &lt;a href=&#34;//localhost:1313/files/Poster2026.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster2026.png&#34; alt=&#34;Poster 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;h3 id=&#34;poster-englisch---download&#34;&gt;Poster Englisch - &lt;a href=&#34;//localhost:1313/files/strike_wef_plakat.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;poster-2024&#34;&gt;&lt;img src=&#34;//localhost:1313/img/strike_wef_plakat.jpg&#34; alt=&#34;Poster 2024&#34;&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;h3 id=&#34;german---download&#34;&gt;German - &lt;a href=&#34;//localhost:1313/files/Poster_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_DE.jpg&#34; alt=&#34;Poster German&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;english---download&#34;&gt;English - &lt;a href=&#34;//localhost:1313/files/Poster_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_EN.jpg&#34; alt=&#34;Poster English&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;french---download&#34;&gt;French - &lt;a href=&#34;//localhost:1313/files/Poster_FR.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_FR.jpg&#34; alt=&#34;Poster French&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;flyer&#34;&gt;Flyer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;german---download-1&#34;&gt;German - &lt;a href=&#34;//localhost:1313/files/Flyer_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_DE.jpg&#34; alt=&#34;Flyer German&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;english---download-1&#34;&gt;English - &lt;a href=&#34;//localhost:1313/files/Flyer_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_EN.jpg&#34; alt=&#34;Flyer English&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

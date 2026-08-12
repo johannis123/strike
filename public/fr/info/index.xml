@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Info on Strike WEF</title>
-    <link>//localhost:1313/fr/info/</link>
-    <description>Recent content in Info on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Tue, 04 Jul 2023 12:01:33 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/fr/info/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pourquoi randonner contre le WEF ?</title>
-      <link>//localhost:1313/fr/info/pourquoi/</link>
-      <pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
-      <guid>//localhost:1313/fr/info/pourquoi/</guid>
-      <description>Lisez ici pourquoi nous marchons contre le WEF.</description>
-    </item>
-    <item>
-      <title>Route et Heures</title>
-      <link>//localhost:1313/fr/info/route/</link>
-      <pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
-      <guid>//localhost:1313/fr/info/route/</guid>
-      <description>L&amp;rsquo;itinéraire et les différents horaires 2026 !</description>
-    </item>
-    <item>
-      <title>Antirep</title>
-      <link>//localhost:1313/fr/info/antirep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/info/antirep/</guid>
-      <description>Vous trouverez ici toutes les informations juridiques importantes qui pourraient être pertinentes pendant la randonnée.</description>
-    </item>
-    <item>
-      <title>Concept de sensibilisation</title>
-      <link>//localhost:1313/fr/info/awareness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/info/awareness/</guid>
-      <description>Vous trouverez ici notre concept de sensibilisation et tout ce qui s y rapporte.</description>
-    </item>
-    <item>
-      <title>Consensus d&#39;Action</title>
-      <link>//localhost:1313/fr/info/consensus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/info/consensus/</guid>
-      <description>Cliquez ici pour accéder au consensus d&amp;rsquo;action qui s&amp;rsquo;applique à tous pendant la randonnée.</description>
-    </item>
-    <item>
-      <title>Liste de colisage</title>
-      <link>//localhost:1313/fr/info/colisage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/info/colisage/</guid>
-      <description>Tu ne sais pas quoi emporter ? Alors tu trouveras ici une liste d&amp;rsquo;emballage !</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Info on Strike WEF</title>
+		<link>//localhost:1313/fr/info/</link>
+		<description>Recent content in Info on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Jul 2023 12:01:33 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/fr/info/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pourquoi randonner contre le WEF ?</title>
+				<link>//localhost:1313/fr/info/pourquoi/</link>
+				<pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
+				<guid>//localhost:1313/fr/info/pourquoi/</guid>
+				<description>Lisez ici pourquoi nous marchons contre le WEF.</description>
+			</item>
+			<item>
+				<title>Route et Heures</title>
+				<link>//localhost:1313/fr/info/route/</link>
+				<pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
+				<guid>//localhost:1313/fr/info/route/</guid>
+				<description>L&amp;rsquo;itinéraire et les différents horaires 2026 !</description>
+			</item>
+			<item>
+				<title>Antirep</title>
+				<link>//localhost:1313/fr/info/antirep/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/fr/info/antirep/</guid>
+				<description>Vous trouverez ici toutes les informations juridiques importantes qui pourraient être pertinentes pendant la randonnée.</description>
+			</item>
+			<item>
+				<title>Concept de sensibilisation</title>
+				<link>//localhost:1313/fr/info/awareness/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/fr/info/awareness/</guid>
+				<description>Vous trouverez ici notre concept de sensibilisation et tout ce qui s y rapporte.</description>
+			</item>
+			<item>
+				<title>Consensus d&#39;Action</title>
+				<link>//localhost:1313/fr/info/consensus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/fr/info/consensus/</guid>
+				<description>Cliquez ici pour accéder au consensus d&amp;rsquo;action qui s&amp;rsquo;applique à tous pendant la randonnée.</description>
+			</item>
+			<item>
+				<title>Liste de colisage</title>
+				<link>//localhost:1313/fr/info/colisage/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/fr/info/colisage/</guid>
+				<description>Tu ne sais pas quoi emporter ? Alors tu trouveras ici une liste d&amp;rsquo;emballage !</description>
+			</item>
+	</channel>
 </rss>

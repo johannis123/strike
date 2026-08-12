@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Infos on Strike WEF</title>
-    <link>//localhost:1313/en/infos/</link>
-    <description>Recent content in Infos on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 04 Jul 2023 12:01:33 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/en/infos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Route &amp; Times</title>
-      <link>//localhost:1313/en/infos/route/</link>
-      <pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
-      <guid>//localhost:1313/en/infos/route/</guid>
-      <description>The route and various times for 2026!</description>
-    </item>
-    <item>
-      <title>Why are we hiking against the WEF?</title>
-      <link>//localhost:1313/en/infos/why/</link>
-      <pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
-      <guid>//localhost:1313/en/infos/why/</guid>
-      <description>Read here why we are hiking against the WEF</description>
-    </item>
-    <item>
-      <title>Action Consensus</title>
-      <link>//localhost:1313/en/infos/consensus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/infos/consensus/</guid>
-      <description>Click here for the action consensus which applies to everyone during the hike.</description>
-    </item>
-    <item>
-      <title>Antirep</title>
-      <link>//localhost:1313/en/infos/antirep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/infos/antirep/</guid>
-      <description>Here you will find all the important legal information that could be relevant during the hike.</description>
-    </item>
-    <item>
-      <title>Awareness concept</title>
-      <link>//localhost:1313/en/infos/awareness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/infos/awareness/</guid>
-      <description>Here you will find our awareness concept and everything that goes with it.</description>
-    </item>
-    <item>
-      <title>Packing list</title>
-      <link>//localhost:1313/en/infos/packinglist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/infos/packinglist/</guid>
-      <description>Don&amp;rsquo;t know what to take with you? Then you&amp;rsquo;ll find a packing list here!</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Infos on Strike WEF</title>
+		<link>//localhost:1313/en/infos/</link>
+		<description>Recent content in Infos on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Jul 2023 12:01:33 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/en/infos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Route &amp; Times</title>
+				<link>//localhost:1313/en/infos/route/</link>
+				<pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
+				<guid>//localhost:1313/en/infos/route/</guid>
+				<description>The route and various times for 2026!</description>
+			</item>
+			<item>
+				<title>Why are we hiking against the WEF?</title>
+				<link>//localhost:1313/en/infos/why/</link>
+				<pubDate>Tue, 04 Jul 2023 12:01:33 +0200</pubDate>
+				<guid>//localhost:1313/en/infos/why/</guid>
+				<description>Read here why we are hiking against the WEF</description>
+			</item>
+			<item>
+				<title>Action Consensus</title>
+				<link>//localhost:1313/en/infos/consensus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/infos/consensus/</guid>
+				<description>Click here for the action consensus which applies to everyone during the hike.</description>
+			</item>
+			<item>
+				<title>Antirep</title>
+				<link>//localhost:1313/en/infos/antirep/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/infos/antirep/</guid>
+				<description>Here you will find all the important legal information that could be relevant during the hike.</description>
+			</item>
+			<item>
+				<title>Awareness concept</title>
+				<link>//localhost:1313/en/infos/awareness/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/infos/awareness/</guid>
+				<description>Here you will find our awareness concept and everything that goes with it.</description>
+			</item>
+			<item>
+				<title>Packing list</title>
+				<link>//localhost:1313/en/infos/packinglist/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/infos/packinglist/</guid>
+				<description>Don&amp;rsquo;t know what to take with you? Then you&amp;rsquo;ll find a packing list here!</description>
+			</item>
+	</channel>
 </rss>

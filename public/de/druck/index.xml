@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Drucks on Strike WEF</title>
-    <link>//localhost:1313/de/druck/</link>
-    <description>Recent content in Drucks on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Thu, 23 Nov 2023 15:00:51 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/de/druck/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Poster &amp; Flyer</title>
-      <link>//localhost:1313/de/druck/druckmaterialien/</link>
-      <pubDate>Thu, 23 Nov 2023 15:00:51 +0100</pubDate>
-      <guid>//localhost:1313/de/druck/druckmaterialien/</guid>
-      <description>&lt;h3 id=&#34;hier-sind-flyer-und-poster-für-eigenes-ausdrucken-und-gebrauchen&#34;&gt;Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen&lt;/h3&gt;&#xA;&lt;h2 id=&#34;hast-du-keinen-drucker-wir-haben-vorgedruckt-schreib-uns-eine-mail-und-wir-schauen-wie-du-ein-plakat-bekommst-&#34;&gt;&lt;strong&gt;Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;h3 id=&#34;plakat-deutsch---download&#34;&gt;Plakat Deutsch - &lt;a href=&#34;//localhost:1313/files/Poster2026.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster2026.png&#34; alt=&#34;Poster 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;h3 id=&#34;plakat-englisch---download&#34;&gt;Plakat Englisch - &lt;a href=&#34;//localhost:1313/files/strike_wef_plakat.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/strike_wef_plakat.jpg&#34; alt=&#34;Poster 2025&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;h3 id=&#34;deutsch---download&#34;&gt;Deutsch - &lt;a href=&#34;//localhost:1313/files/Poster_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_DE.jpg&#34; alt=&#34;Poster Deutsch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;englisch---download&#34;&gt;Englisch - &lt;a href=&#34;//localhost:1313/files/Poster_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_EN.jpg&#34; alt=&#34;Poster Englisch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;französisch---download&#34;&gt;Französisch - &lt;a href=&#34;//localhost:1313/files/Poster_FR.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_FR.jpg&#34; alt=&#34;Poster Französisch&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;flyer&#34;&gt;Flyer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;deutsch---download-1&#34;&gt;Deutsch - &lt;a href=&#34;//localhost:1313/files/Flyer_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_DE.jpg&#34; alt=&#34;Flyer Deutsch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;englisch---download-1&#34;&gt;Englisch - &lt;a href=&#34;//localhost:1313/files/Flyer_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_EN.jpg&#34; alt=&#34;Flyer Englisch&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Drucks on Strike WEF</title>
+		<link>//localhost:1313/de/druck/</link>
+		<description>Recent content in Drucks on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>de-DE</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Nov 2023 15:00:51 +0100</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/de/druck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Poster &amp; Flyer</title>
+				<link>//localhost:1313/de/druck/druckmaterialien/</link>
+				<pubDate>Thu, 23 Nov 2023 15:00:51 +0100</pubDate>
+				<guid>//localhost:1313/de/druck/druckmaterialien/</guid>
+				<description>&lt;h3 id=&#34;hier-sind-flyer-und-poster-für-eigenes-ausdrucken-und-gebrauchen&#34;&gt;Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen&lt;/h3&gt;&#xA;&lt;h2 id=&#34;hast-du-keinen-drucker-wir-haben-vorgedruckt-schreib-uns-eine-mail-und-wir-schauen-wie-du-ein-plakat-bekommst-&#34;&gt;&lt;strong&gt;Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;h3 id=&#34;plakat-deutsch---download&#34;&gt;Plakat Deutsch - &lt;a href=&#34;//localhost:1313/files/Poster2026.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster2026.png&#34; alt=&#34;Poster 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;h3 id=&#34;plakat-englisch---download&#34;&gt;Plakat Englisch - &lt;a href=&#34;//localhost:1313/files/strike_wef_plakat.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/strike_wef_plakat.jpg&#34; alt=&#34;Poster 2025&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;h3 id=&#34;deutsch---download&#34;&gt;Deutsch - &lt;a href=&#34;//localhost:1313/files/Poster_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_DE.jpg&#34; alt=&#34;Poster Deutsch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;englisch---download&#34;&gt;Englisch - &lt;a href=&#34;//localhost:1313/files/Poster_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_EN.jpg&#34; alt=&#34;Poster Englisch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;französisch---download&#34;&gt;Französisch - &lt;a href=&#34;//localhost:1313/files/Poster_FR.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Poster_FR.jpg&#34; alt=&#34;Poster Französisch&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;flyer&#34;&gt;Flyer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;deutsch---download-1&#34;&gt;Deutsch - &lt;a href=&#34;//localhost:1313/files/Flyer_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_DE.jpg&#34; alt=&#34;Flyer Deutsch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;englisch---download-1&#34;&gt;Englisch - &lt;a href=&#34;//localhost:1313/files/Flyer_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Flyer_EN.jpg&#34; alt=&#34;Flyer Englisch&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

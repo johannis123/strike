@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Spendens on Strike WEF</title>
-    <link>//localhost:1313/de/spenden/</link>
-    <description>Recent content in Spendens on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/de/spenden/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Spenden</title>
-      <link>//localhost:1313/de/spenden/spenden/</link>
-      <pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
-      <guid>//localhost:1313/de/spenden/spenden/</guid>
-      <description>&lt;h2 id=&#34;unser-spendenkonto&#34;&gt;Unser Spendenkonto&lt;/h2&gt;&#xA;&lt;p&gt;Da die Wanderung leider Geld benötigt für Essen, Miete der Turnhalle, Mobilisation, etc. sind wir jedes Jahr auf Spenden angewiesen.&lt;/p&gt;&#xA;&lt;p&gt;Gerne dürfen Spenden auf dieses Konto überwiesen werden:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verein Die Wandervögel&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;8003 Zürich&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CH82 0839 0039 9271 1000 0&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;div id=&#34;rnw-paylink-button-ngksh&#34;&gt;&lt;/div&gt;&#xA;&lt;script type=&#34;module&#34;&gt;&#xA;  import {TwintButton} from &#34;https://unpkg.com/@raisenow/paylink-button@2/dist/TwintButton.js&#34;&#xA;  TwintButton.render(&#34;#rnw-paylink-button-ngksh&#34;, {&#xA;    &#34;solution-id&#34;: &#34;ngksh&#34;,&#xA;    &#34;solution-type&#34;: &#34;donate&#34;,&#xA;    &#34;language&#34;: &#34;de&#34;,&#xA;    &#34;size&#34;: &#34;large&#34;,&#xA;    &#34;width&#34;: &#34;fixed&#34;,&#xA;    &#34;color-scheme&#34;: &#34;dark&#34;,&#xA;  })&#xA;&lt;/script&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Danke viel mal!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Spendens on Strike WEF</title>
+		<link>//localhost:1313/de/spenden/</link>
+		<description>Recent content in Spendens on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>de-DE</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/de/spenden/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Spenden</title>
+				<link>//localhost:1313/de/spenden/spenden/</link>
+				<pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
+				<guid>//localhost:1313/de/spenden/spenden/</guid>
+				<description>&lt;h2 id=&#34;unser-spendenkonto&#34;&gt;Unser Spendenkonto&lt;/h2&gt;&#xA;&lt;p&gt;Da die Wanderung leider Geld benötigt für Essen, Miete der Turnhalle, Mobilisation, etc. sind wir jedes Jahr auf Spenden angewiesen.&lt;/p&gt;&#xA;&lt;p&gt;Gerne dürfen Spenden auf dieses Konto überwiesen werden:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verein Die Wandervögel&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;8003 Zürich&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CH82 0839 0039 9271 1000 0&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;div id=&#34;rnw-paylink-button-ngksh&#34;&gt;&lt;/div&gt;&#xA;&lt;script type=&#34;module&#34;&gt;&#xA;  import {TwintButton} from &#34;https://unpkg.com/@raisenow/paylink-button@2/dist/TwintButton.js&#34;&#xA;  TwintButton.render(&#34;#rnw-paylink-button-ngksh&#34;, {&#xA;    &#34;solution-id&#34;: &#34;ngksh&#34;,&#xA;    &#34;solution-type&#34;: &#34;donate&#34;,&#xA;    &#34;language&#34;: &#34;de&#34;,&#xA;    &#34;size&#34;: &#34;large&#34;,&#xA;    &#34;width&#34;: &#34;fixed&#34;,&#xA;    &#34;color-scheme&#34;: &#34;dark&#34;,&#xA;  })&#xA;&lt;/script&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Danke viel mal!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

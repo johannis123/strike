@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Contacts on Strike WEF</title>
-    <link>//localhost:1313/fr/contact/</link>
-    <description>Recent content in Contacts on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/fr/contact/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>//localhost:1313/fr/contact/contact/</link>
-      <pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
-      <guid>//localhost:1313/fr/contact/contact/</guid>
-      <description>&lt;p&gt;N&amp;rsquo;hésite pas à nous envoyer un e-mail pour nous faire part de tes suggestions ou si tu es intéressé par &lt;a href=&#34;mailto:strike.wef@posteo.de&#34;&gt;strike.wef@posteo.de&lt;/a&gt;.&#xA;Tu peux également nous contacter à cette adresse e-mail pour les questions relatives aux médias.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Contacts on Strike WEF</title>
+		<link>//localhost:1313/fr/contact/</link>
+		<description>Recent content in Contacts on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/fr/contact/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contact</title>
+				<link>//localhost:1313/fr/contact/contact/</link>
+				<pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
+				<guid>//localhost:1313/fr/contact/contact/</guid>
+				<description>&lt;p&gt;N&amp;rsquo;hésite pas à nous envoyer un e-mail pour nous faire part de tes suggestions ou si tu es intéressé par &lt;a href=&#34;mailto:strike.wef@posteo.de&#34;&gt;strike.wef@posteo.de&lt;/a&gt;.&#xA;Tu peux également nous contacter à cette adresse e-mail pour les questions relatives aux médias.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

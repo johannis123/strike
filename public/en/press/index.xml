@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Presses on Strike WEF</title>
-    <link>//localhost:1313/en/press/</link>
-    <description>Recent content in Presses on Strike WEF</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 04 Jul 2023 12:06:39 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/en/press/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Press</title>
-      <link>//localhost:1313/en/press/press/</link>
-      <pubDate>Tue, 04 Jul 2023 12:06:39 +0200</pubDate>
-      <guid>//localhost:1313/en/press/press/</guid>
-      <description>&lt;p&gt;For media inquiries, contact us under &lt;a href=&#34;mailto:strike.wef@posteo.de&#34;&gt;strike.wef@posteo.de&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Presses on Strike WEF</title>
+		<link>//localhost:1313/en/press/</link>
+		<description>Recent content in Presses on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Jul 2023 12:06:39 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/en/press/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Press</title>
+				<link>//localhost:1313/en/press/press/</link>
+				<pubDate>Tue, 04 Jul 2023 12:06:39 +0200</pubDate>
+				<guid>//localhost:1313/en/press/press/</guid>
+				<description>&lt;p&gt;For media inquiries, contact us under &lt;a href=&#34;mailto:strike.wef@posteo.de&#34;&gt;strike.wef@posteo.de&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

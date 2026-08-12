@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Norths on Strike WEF</title>
+		<link>//localhost:1313/de/north/</link>
+		<description>Recent content in Norths on Strike WEF</description>
+		<generator>Hugo</generator>
+		<language>de-DE</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/de/north/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bildungsreise</title>
+				<link>//localhost:1313/de/north/bildungsreise/bildungsreise/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/north/bildungsreise/bildungsreise/</guid>
+				<description>&lt;p&gt;Wir sind die Internationale Ortstruppe North von StrikeWEF. In den letzten Jahren organisierten wir die Anreise zu den StrikeWEF-Protesten aus Deutschland und darüber hinaus Bildungsreisen.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ortsgruppe North</title>
+				<link>//localhost:1313/de/north/north/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/de/north/north/</guid>
+				<description>&lt;p&gt;Wir sind die Internationale Ortstruppe North von StrikeWEF. In den letzten Jahren organisierten wir die Anreise zu den StrikeWEF-Protesten aus Deutschland und darüber hinaus Bildungsreisen.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

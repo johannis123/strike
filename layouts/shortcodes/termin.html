@@ -1,0 +1,38 @@
+{{ $bgcolor := .Get "farbe" | default "#fafafa" }}
+{{ $daten := split (.Get "datum") ";" }}
+{{ $zeiten := split (.Get "uhrzeit") ";" }}
+{{ $zielgruppen := split (.Get "zielgruppe") ";" }}
+{{ $modi := split (.Get "modus") ";" }}
+
+<details style="border: 1px solid #ddd; border-radius: 8px; margin: 10px 0; padding: 12px 16px; background: {{ $bgcolor }};">
+  <summary style="cursor: pointer; list-style: none; font-weight: normal;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <span style="font-weight: bold; font-size: 1.1em; text-align: left;">{{ .Get "titel" }}</span>
+      {{ if eq (.Get "optional") "true" }}
+        <span style="background: #eee; color: #555; padding: 2px 8px; border-radius: 12px; font-size: 0.85em; white-space: nowrap;">optional</span>
+      {{ end }}
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-top: 8px;">
+      <span style="display: flex; flex-direction: column; gap: 2px;">
+        {{ range $daten }}<span>📅 {{ . }}</span>{{ end }}
+      </span>
+      <span style="display: flex; flex-direction: column; gap: 2px;">
+        {{ range $zielgruppen }}<span>👥 {{ . }}</span>{{ end }}
+      </span>
+      {{ if ne (.Get "uhrzeit") "" }}
+        <span style="display: flex; flex-direction: column; gap: 2px;">
+          {{ range $zeiten }}<span>🕐 {{ . }}</span>{{ end }}
+        </span>
+      {{ end }}
+      <span style="display: flex; flex-direction: column; gap: 2px;">
+        {{ range $modi }}
+          <span>{{ if eq . "online" }}💻 Online{{ else if eq . "präsenz" }}📍 Berlin{{ else if eq . "hybrid" }}💻📍 Online und Berlin{{ else }}{{ . }}{{ end }}</span>
+        {{ end }}
+      </span>
+      <span style="margin-left: auto; color: #6b5600; white-space: nowrap;">▶ mehr Infos</span>
+    </div>
+  </summary>
+  <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #ddd;">
+    {{ .Inner }}
+  </div>
+</details>

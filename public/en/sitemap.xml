@@ -11,13 +11,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/"
+                hreflang="en-US"
+                href="//localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/"
                 />
   </url><url>
     <loc>//localhost:1313/en/print/posters/</loc>
@@ -65,39 +65,39 @@
     <lastmod>2023-07-04T10:51:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/photos/"
+                hreflang="en-US"
+                href="//localhost:1313/en/photos/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/photos/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/photos/"
                 />
   </url><url>
     <loc>//localhost:1313/en/contact/contact/</loc>
     <lastmod>2023-07-04T09:38:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/contact/contact/"
+                hreflang="en-US"
+                href="//localhost:1313/en/contact/contact/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/contact/contact/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/contact/contact/"
                 />
   </url><url>
     <loc>//localhost:1313/en/contact/</loc>
     <lastmod>2023-07-04T09:38:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/contact/"
+                hreflang="en-US"
+                href="//localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/contact/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/contact/"
                 />
   </url><url>
     <loc>//localhost:1313/en/donate/donate/</loc>
@@ -140,13 +140,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/categories/"
+                hreflang="en-US"
+                href="//localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/categories/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/categories/"
                 />
   </url><url>
     <loc>//localhost:1313/en/infos/packinglist/</loc>
@@ -159,13 +159,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/tags/"
+                hreflang="en-US"
+                href="//localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/tags/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/tags/"
                 />
   </url>
 </urlset>

@@ -2,11 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/de/druck/</loc>
-    <lastmod>2023-11-23T15:00:51+01:00</lastmod>
+    <loc>//localhost:1313/de/bildungsreise/</loc>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/de/</loc>
-    <lastmod>2023-11-23T15:00:51+01:00</lastmod>
+    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="//localhost:1313/de/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -17,11 +22,9 @@
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/"
-                />
+  </url><url>
+    <loc>//localhost:1313/de/druck/</loc>
+    <lastmod>2023-11-23T15:00:51+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/de/druck/druckmaterialien/</loc>
     <lastmod>2023-11-23T15:00:51+01:00</lastmod>
@@ -30,52 +33,52 @@
     <lastmod>2023-11-23T14:58:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/infos/"
+                hreflang="de-DE"
+                href="//localhost:1313/de/infos/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/infos/"
+                hreflang="en-US"
+                href="//localhost:1313/en/infos/"
                 />
   </url><url>
     <loc>//localhost:1313/de/presse/presse/</loc>
     <lastmod>2023-07-04T12:06:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/presse/presse/"
+                hreflang="de-DE"
+                href="//localhost:1313/de/presse/presse/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/presse/presse/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/presse/presse/"
                 />
   </url><url>
     <loc>//localhost:1313/de/presse/</loc>
     <lastmod>2023-07-04T12:06:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/presse/"
+                hreflang="de-DE"
+                href="//localhost:1313/de/presse/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/presse/"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/presse/"
                 />
   </url><url>
     <loc>//localhost:1313/de/infos/route/</loc>
     <lastmod>2023-07-04T12:01:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/infos/route/"
+                hreflang="de-DE"
+                href="//localhost:1313/de/infos/route/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/infos/route/"
+                hreflang="en-US"
+                href="//localhost:1313/en/infos/route/"
                 />
   </url><url>
     <loc>//localhost:1313/de/fotos/</loc>
@@ -100,28 +103,33 @@
     <loc>//localhost:1313/de/infos/antirep/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/infos/antirep/"
+                hreflang="de-DE"
+                href="//localhost:1313/de/infos/antirep/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/infos/antirep/"
+                hreflang="en-US"
+                href="//localhost:1313/en/infos/antirep/"
                 />
   </url><url>
     <loc>//localhost:1313/de/infos/awareness/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/infos/awareness/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de-DE"
                 href="//localhost:1313/de/infos/awareness/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/infos/awareness/"
+                />
   </url><url>
     <loc>//localhost:1313/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="//localhost:1313/de/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -132,15 +140,15 @@
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/categories/"
-                />
   </url><url>
     <loc>//localhost:1313/de/infos/packliste/</loc>
   </url><url>
     <loc>//localhost:1313/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="//localhost:1313/de/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -150,11 +158,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="//localhost:1313/de/tags/"
                 />
   </url><url>
     <loc>//localhost:1313/de/infos/warum/</loc>
